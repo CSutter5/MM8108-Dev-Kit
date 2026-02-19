@@ -214,7 +214,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/d05ce7fa-3385-45ff-9e05-59c25485b10d")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.146267 -0.51)
@@ -355,7 +355,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/ef3df335-eeb9-4640-8b4c-180129f82e51")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.254724 0.5225)
@@ -498,7 +498,7 @@
 		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
 		(path "/fadcb24d-dfa8-4b5f-aaa9-2fa853f62fa8")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.54 -0.84)
@@ -992,7 +992,7 @@
 		)
 		(path "/627744c2-236d-485d-8138-b05fc29de16d")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.5 4.5)
@@ -1467,7 +1467,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/1e8bfa25-d7fb-4844-9676-df106d61bc87")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.146267 -0.51)
@@ -1610,7 +1610,7 @@
 		(property ki_fp_filters "TSOT?23*")
 		(path "/8ebc73af-dade-4ee5-95fa-64cce3d128af")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.08 -1.51)
@@ -1883,7 +1883,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/14860485-4663-4bde-a423-83a5f31bc9ec")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.146267 -0.51)
@@ -2024,7 +2024,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/89f70158-879d-481c-ba9a-d0a768952904")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.33 1.27)
@@ -2385,7 +2385,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/de9cb034-cec9-4c25-881a-3f84d74e2b60")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.146267 0.51)
@@ -2526,7 +2526,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/583aee85-3de0-49da-9bac-ba166d2b540c")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.410242 -0.56)
@@ -2669,7 +2669,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/fadb34ec-64ed-4784-a3dd-46320f11afcb")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.146267 0.51)
@@ -2810,7 +2810,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/910a7519-4990-414e-a5d8-1c837131e69b")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.87 11.49)
@@ -3171,7 +3171,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c0f75d8d-c67d-4175-bdb4-8a33f4d491ab")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.254724 0.5225)
@@ -3312,7 +3312,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d75520e4-c465-4071-a435-61e11c2f590f")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.254724 0.5225)
@@ -3453,7 +3453,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/afa89392-a24d-4c94-86ea-c6130bce142c")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.146267 0.51)
@@ -3607,7 +3607,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/fe59b56f-2658-42ed-b057-d33d489e7c4e")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.8 -0.735)
@@ -3799,7 +3799,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e3d3ea5a-2674-4900-a5ee-774ad6d41aab")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.254724 0.5225)
@@ -3940,7 +3940,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/4b5ad092-9b5a-45d8-ba9b-e3ba5ad603c6")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.146267 -0.51)
@@ -4094,7 +4094,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2f423342-cfc9-4598-90e7-550e40463c89")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.8 -0.735)
@@ -4299,7 +4299,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/5d548e2b-98ca-48cd-9943-c8129a83bf30")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.8 -0.735)
@@ -4491,7 +4491,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/9061fd48-d3f7-451c-90ea-916fc335116c")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.92 -1.38)
@@ -4804,7 +4804,7 @@
 		)
 		(path "/6556ff8a-cbb1-461f-ba7e-363b92460cc6")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 3.2 -2)
@@ -5061,7 +5061,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "d3e14ee4-2977-4649-bfc5-49a7c5db3f26")
+			(uuid "24c28c8b-bf17-48e5-ac68-748d40bce414")
 			(effects
 				(font
 					(size 1 1)
@@ -5073,7 +5073,7 @@
 			(at 0 5 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "e5ed5f22-8d38-49f0-ac59-0617f78cd760")
+			(uuid "4c980e6f-2910-4b7f-a25d-81f20a25e80f")
 			(effects
 				(font
 					(size 1 1)
@@ -5086,7 +5086,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "42f7ab9e-ec2e-44a8-a55b-e2cbf54c27df")
+			(uuid "4986b81b-ea16-4a4c-82ef-ef4f92b11d84")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5099,7 +5099,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e7d08d3f-e7a3-45ce-8e8b-5b687358e052")
+			(uuid "aa57196a-d963-46a0-9f23-fc88bb345848")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5110,7 +5110,7 @@
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/333c0591-621d-4f7a-b867-274eb0e30e37")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(clearance 0.075)
 		(attr smd)
 		(fp_line
@@ -5483,7 +5483,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/cab7a708-f5cb-4667-a1f2-da72318929ab")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.254724 -0.5225)
@@ -5629,7 +5629,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/01a06102-e785-4712-8f3f-efc7ea008778")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.146267 0.51)
@@ -5775,7 +5775,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4057ba4e-8ba9-496c-aeac-bbcb462523a9")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.254724 0.5225)
@@ -5921,7 +5921,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b7d7d047-b266-47a9-9af5-d44ea7c6fb00")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.254724 -0.5225)
@@ -6067,7 +6067,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8eff0737-e66c-4f20-ba8c-9066e7094f83")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.254724 0.5225)
@@ -6213,7 +6213,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b12589c6-cbb5-4b04-a58e-61e7657cfc85")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.146267 0.51)
@@ -6359,7 +6359,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/c4da8a93-0d75-4fe0-835a-733cdaff4669")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.146267 0.51)
@@ -6505,7 +6505,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/3da81e01-9168-4a52-9418-8efdc89a1c55")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.254724 0.5225)
@@ -6651,7 +6651,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/d307d41a-db12-4f71-9070-a36c1e889207")
 		(sheetname "/")
-		(sheetfile "MM8108-MF15457 dev kit.kicad_sch")
+		(sheetfile "MM8108-Dev-Kit.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.146267 0.51)
